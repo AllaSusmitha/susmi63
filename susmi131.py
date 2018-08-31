@@ -6,7 +6,7 @@ for i in s:
 	else:
 		a+=1
 if (b>0 and a>0):
-	print "yes"
+	print "Yes"
 else:
-	print "no"
+	print "No"
 		
